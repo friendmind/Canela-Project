@@ -1,0 +1,22 @@
+/* Index CSS */
+.background {
+	padding: 20px 20px;
+	margin: 20px 100px;
+	font-size: 17px;
+
+}
+
+h1 {
+	color: purple;
+	padding: 20px 20px;
+	margin: 15px 100px;
+}
+
+body {
+	text-align: center;
+	
+}
+
+* {
+	background-color: beige;
+}

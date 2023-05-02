@@ -1,0 +1,76 @@
+/* Info CSS */
+
+
+h4 {
+	font-size: 18px;
+	font-family: monospace;
+	text-align: center;
+	border: thin solid black;
+	background-color: 	#C9A9A6;
+}
+
+.pink {
+	height: 60px;
+	width:120px;
+	border: medium solid white;
+	
+}
+
+.solo,
+
+.center {
+	text-align: center;
+}
+
+
+.bold {
+	font-weight: bold;
+	font-size: 20px;
+	
+}
+
+.middle {
+	width: 100px;
+	margin: 0 auto;
+
+}
+
+
+
+header {
+	text-align: center;
+	background-color: 	#9F2B68;
+	color: white;
+	font-size: 40px;	
+	margin: 15px;
+
+}
+
+h5 {
+	
+	padding-left: 40px;
+}
+	
+
+
+.column {	
+	float: left;
+	width:  32.50%;
+	padding: 5px;
+}
+
+.row::after {
+	content: "";
+	clear: both;
+	display: table;
+}
+
+body {
+	background-color: #ffe4e1;
+}
+
+p {
+text-align: center;
+
+}
+	
